@@ -2,6 +2,8 @@ Working through Andrej Karpathy's neural network lectures as a refresher. I used
 
 [Neural Networks - Building makemore](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
+[Neural Networks Zero to Hero - Lectures](https://github.com/karpathy/nn-zero-to-hero/tree/master)
+
 [Makemore GitHub project](https://github.com/karpathy/makemore)
 
 Implementation follows a few key papers:
